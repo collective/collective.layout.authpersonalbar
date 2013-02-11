@@ -1,0 +1,14 @@
+Changelog
+=========
+
+0.1.1 (2011-04-07)
+-------------------
+
+- fix repo url [j23d]
+- add tested Plone version to README.txt [j23d]
+
+
+0.1 (2011-04-07)
+-------------------
+
+- Initial release [j23d]
